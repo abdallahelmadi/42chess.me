@@ -4,7 +4,7 @@
     "**/.next": true,
     "**/node_modules": true,
     "**/next-env.d.ts": true,
-//     "**/package-lock.json": true
+    "**/package-lock.json": true
   },
   "files.autoSave": "onFocusChange",
   "terminal.integrated.defaultProfile.linux": "bash",
